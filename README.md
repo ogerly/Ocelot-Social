@@ -1,4 +1,4 @@
-# Human-Connection
+# ocelot.social
 
 [![Build Status](https://travis-ci.com/Human-Connection/Human-Connection.svg?branch=master)](https://travis-ci.com/Human-Connection/Human-Connection)
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/Human-Connection/Human-Connection/master.svg?style=flat-square)](https://codecov.io/gh/Human-Connection/Human-Connection/)
@@ -6,13 +6,13 @@
 [![Discord Channel](https://img.shields.io/discord/489522408076738561.svg)](https://discordapp.com/invite/DFSjPaX)
 [![Open Source Helpers](https://www.codetriage.com/human-connection/human-connection/badges/users.svg)](https://www.codetriage.com/human-connection/human-connection)
 
-Human Connection is a nonprofit social, action and knowledge network that connects information to action and promotes positive local and global change in all areas of life.
+ocelot.social is a  open source social network
 
-* **Social**: Interact with other people not just by commenting their posts, but by providing **Pro & Contra** arguments, give a **Versus** or ask them by integrated **Chat** or **Let's Talk**
-* **Knowledge**: Read articles about interesting topics and find related posts in the **More Info** tab or by **Filtering** based on **Categories** and **Tagging** or by using the **Fulltext Search**.
-* **Action**: Don't just read about how to make the world a better place, but come into **Action** by following provided suggestions on the **Action** tab provided by other people or **Organisations**.
+The fork is from the Ocelot Social Community, this is the current source code of the social network.
+The original repro was Human Connection, but this is currently not being developed further (status: 10/2020).  
+ 
 
- [![Human-Connection](.gitbook/assets/lets_get_together.png)](https://human-connection.org)
+![noun_Ocelot_placeholder](https://user-images.githubusercontent.com/1324583/96003315-662c3f80-0e3a-11eb-9dc5-f7fc68c8b22c.png)
 
 **Technology Stack**
 
