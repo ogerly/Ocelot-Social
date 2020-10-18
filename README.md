@@ -8,6 +8,7 @@
 [![Open Source Helpers](https://www.codetriage.com/human-connection/human-connection/badges/users.svg)](https://www.codetriage.com/human-connection/human-connection)
 
 ![noun_Ocelot_placeholder3](https://user-images.githubusercontent.com/1324583/96329992-2b045900-1052-11eb-889a-9dc7f791f64b.png)
+
 Ocelot-Social is an open source social network. The former code of Human Connection is maintained here. 
  
 
