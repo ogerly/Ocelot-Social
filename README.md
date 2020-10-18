@@ -1,4 +1,5 @@
-# ocelot.social
+# Ocelot-Social 
+(formerly Human-Connection)
 
 [![Build Status](https://travis-ci.com/Human-Connection/Human-Connection.svg?branch=master)](https://travis-ci.com/Human-Connection/Human-Connection)
 [![Codecov Coverage](https://img.shields.io/codecov/c/github/Human-Connection/Human-Connection/master.svg?style=flat-square)](https://codecov.io/gh/Human-Connection/Human-Connection/)
@@ -6,13 +7,9 @@
 [![Discord Channel](https://img.shields.io/discord/489522408076738561.svg)](https://discordapp.com/invite/DFSjPaX)
 [![Open Source Helpers](https://www.codetriage.com/human-connection/human-connection/badges/users.svg)](https://www.codetriage.com/human-connection/human-connection)
 
-ocelot.social is a  open source social network
-
-The fork is from the Ocelot Social Community, this is the current source code of the social network.
-The original repro was Human Connection, but this is currently not being developed further (status: 10/2020).  
+![noun_Ocelot_placeholder3](https://user-images.githubusercontent.com/1324583/96329992-2b045900-1052-11eb-889a-9dc7f791f64b.png)
+Ocelot-Social is an open source social network. The former code of Human Connection is maintained here. 
  
-
-![noun_Ocelot_placeholder](https://user-images.githubusercontent.com/1324583/96003315-662c3f80-0e3a-11eb-9dc5-f7fc68c8b22c.png)
 
 **Technology Stack**
 
@@ -51,11 +48,7 @@ Just introduce yourself at `#introduce-yourself` and mention `@@Mentor` to get y
 Check out the [contribution guideline](./CONTRIBUTING.md), too!
 
 [![](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/images/0)](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/links/0)[![](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/images/1)](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/links/1)[![](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/images/2)](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/links/2)[![](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/images/3)](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/links/3)[![](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/images/4)](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/links/4)[![](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/images/5)](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/links/5)[![](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/images/6)](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/links/6)[![](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/images/7)](https://sourcerer.io/fame/roschaefer/Human-Connection/Human-Connection/links/7)
-
-## Open-Source Bounties
-
-You can get a small financial compensation for your contribution :moneybag: See
-details in our [Contribution Guidelines](./CONTRIBUTING.md#open-source-bounties).
+ 
 
 ## Attributions
 
@@ -67,3 +60,31 @@ Browser compatibility testing with [BrowserStack](https://www.browserstack.com/)
 
 ## License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+
+
+_______ 
+# History
+
+### 10 / 2020
+> A team of free developers ( **busFaktor() e.V.** ) continues working on the code. The Open Source idea is pursued further and a further development is planned. 
+> The work of the developers is limited exclusively to the maintenance and further development of the code. 
+> Shortly there will be a test network. Everyone who is interested in how the network looks and works can test it <HERE in a short time> extensively. 
+> We are in the process of setting everything up and will also offer technical help and support services in the future.
+> The project Ocelot-Social is supported by donations.  
+> You want to use the network?  
+> Please do not hesitate to contact us if you have any questions. 
+> - < Link to ocelot.social website -  In work - >
+ 
+### 2016 - 2020
+
+> Public operation of the Human Connection network started in 2016.
+> Human Connection was a nonprofit social, action and knowledge network that connects information to action and promotes positive local and global change in all  > areas of life.
+> * **Social**: Interact with other people not just by commenting their posts, but by providing **Pro & Contra** arguments, give a **Versus** or ask them by integrated **Chat** or **Let's Talk**
+> * **Knowledge**: Read articles about interesting topics and find related posts in the **More Info** tab or by **Filtering** based on **Categories** and     **Tagging** or by using the **Fulltext Search**.
+>  * **Action**: Don't just read about how to make the world a better place, but come into **Action** by following provided suggestions on the **Action** tab   provided by other people or **Organisations**.
+> 
+> **Operation of the network is expected to cease in November 2020.** 
+> GitHub: https://github.com/Human-Connection/Human-Connection
+> Website: https://human-connection.org/
+
+________
