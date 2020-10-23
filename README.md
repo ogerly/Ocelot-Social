@@ -75,17 +75,6 @@ _______
 > You want to use the network?  
 > Please do not hesitate to contact us if you have any questions. 
 > - < Link to ocelot.social website -  In work - >
- 
-### 2016 - 2020
 
-> Public operation of the Human Connection network started in 2016.
-> Human Connection was a nonprofit social, action and knowledge network that connects information to action and promotes positive local and global change in all  > areas of life.
-> * **Social**: Interact with other people not just by commenting their posts, but by providing **Pro & Contra** arguments, give a **Versus** or ask them by integrated **Chat** or **Let's Talk**
-> * **Knowledge**: Read articles about interesting topics and find related posts in the **More Info** tab or by **Filtering** based on **Categories** and     **Tagging** or by using the **Fulltext Search**.
->  * **Action**: Don't just read about how to make the world a better place, but come into **Action** by following provided suggestions on the **Action** tab   provided by other people or **Organisations**.
-> 
-> **Operation of the network is expected to cease in November 2020.** 
-> GitHub: https://github.com/Human-Connection/Human-Connection
-> Website: https://human-connection.org/
 
 ________
